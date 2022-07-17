@@ -220,7 +220,7 @@ main {
   row-gap: 2.5rem;
 }
 
-.muestra_shirt {
+.muestra_coffee {
   /* position: absolute;
    top: 0; */
 
@@ -235,7 +235,7 @@ main {
   transform: translateX(1.5rem);
 }
 
-.muestra_shirt img {
+.muestra_coffee img {
   max-width: 100%;
   height: auto;
 }
@@ -589,7 +589,7 @@ footer {
     width: 35%;
   }
 
-  .muestra_shirt {
+  .muestra_coffee {
     width: 480px;
     height: 650px;
   }

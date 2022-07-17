@@ -221,8 +221,7 @@ main {
 }
 
 .muestra_coffee {
-  /* position: absolute;
-   top: 0; */
+  
 
   background-color: var(--target-color);
   width: 275px;
